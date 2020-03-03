@@ -5,12 +5,4 @@ permalink: /issue paper/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Issue Paper](https://wenwenhsu.github.io/files/Issue%20Paper%20Placeholder.pdf)
