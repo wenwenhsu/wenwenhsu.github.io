@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Issue Paper"
 permalink: /issue-paper/
 author_profile: true
